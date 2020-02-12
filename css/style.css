@@ -1,0 +1,603 @@
+/*
+Author name : Ariful Islam;
+email		:md.islam.ariful@gmail.com;
+website url :;
+GPL Licenes :3.4.1;
+
+*/
+
+/*
+
+
+====Index====
+1.Header                                    
+2.Fusce at
+3.Facilisis  
+4.Ante donec 
+5.Blandit rhoncus  
+6.Placerat
+7.Fooetr 
+
+*/
+ 
+/* Global css*/
+
+.bc ul li a{
+	color:white;
+}
+
+.bc ul li a:hover{
+	color:#ED145B;
+	font-weight: ;
+}
+
+.cstm-btn{
+	background: #ED145B;
+    border: none;
+    padding: 10px 40px;
+    border-radius: 25px
+}
+.cstm-btn:hover{
+	background: #ffffff40;
+    border: none;
+    padding: 10px 40px;
+    border-radius: 25px
+}
+
+.navigation{
+	padding: 20px 0px;
+	background: url(../img/hero.png)no-repeat center top;
+	background-size: cover;
+}
+
+
+.hero-content{
+	color: white;
+    text-align: center;
+    padding: 152px 118px;
+}
+.hero-content h3{
+	font-size: 46px;
+	font-weight: normal;
+
+
+}
+.hero-content h5{
+	font-size: 22px;
+	padding-bottom: 50px;
+	font-weight: normal;
+
+	
+}
+.hero-content span{
+	border-bottom: 2px solid #ED145B;
+	display: block;
+	margin: 20px auto;
+	width: 10%;
+
+
+}
+/*   banner bottom section*/
+
+.banner-bottom{
+	position: relative;
+background: url(../img/hero-bottom.png)no-repeat center top ;
+background-size: cover;
+width: 100%;
+float: left;
+}
+
+.banner-bottom-title{
+
+}
+
+.
+.banner-bottom-title h4{
+	text-align: left;
+	font-size: 32px;
+	font-weight: normal;
+
+
+}
+.banner-bottom-title p{
+
+	text-align: left;
+
+}
+
+.banner-bottom-title span{
+
+border-bottom: 1px solid #ED145B;
+
+display: block;
+
+width: 35%;
+
+margin: 20px 0px;
+}
+.banner-bottom-buttton{color: #ED145B;}
+.banner-bottom-buttton label{
+	line-height: 60px;
+
+}
+.play-btn{
+
+    padding: 0px 0px 0px 10px;
+    font-size: 22px;
+}
+
+.laptop{
+    position: absolute;
+    top: 22%;
+    left: 42%;
+    width: 54%;
+}
+.laptop-img{
+
+}
+
+
+
+
+/* our service area */
+
+.our-services{
+	padding: 50px 0px;
+    width: 100%;
+    float: left;
+}
+
+.services-title{
+	text-align: center;
+	padding-top: 50px;
+
+}
+
+.services-title h2{
+	
+}
+.services-title span{
+	    border-bottom: 1px solid #ED145B;
+    margin: 30px auto;
+    display: block;
+    width: 17%;
+    margin-bottom: 100px;
+}
+
+
+
+.service-parts{
+
+}
+
+.service-one{
+
+text-align: center;
+}
+
+.service-one img{
+
+padding: 20px 0px;
+}
+.service-one h6{
+
+color: #ED145B;
+}
+
+
+/*testimonial section */
+
+
+.container-two{
+	width: 1300px;
+	margin: 0 auto;
+}
+
+.testimonial{
+	background: url(../img/slider.png)no-repeat center top;
+	background-size: cover;
+	padding: 0px;
+	width: 100%;
+	float:left;
+}
+
+
+
+.text-cont{
+	padding: 0px 0px;
+}
+
+
+.carousel-item{
+	padding: 230px 0px;
+}
+
+.slider-content{
+	    position: absolute;
+    top: 72px;
+    padding: 0px 225px
+}
+
+.slider-content i{
+	    font-size: 59px;
+    color: #ED145B;
+    padding: 25px 0px;
+
+}
+.prev-next{
+	padding: 0px 100px;
+}
+
+
+
+/* prices section*/
+
+.prices{
+
+	padding: 50px 0px;
+	background: #F4F4F4;
+	width: 100%;
+	float:left;
+
+}
+
+.price-title{
+	text-align: center;
+	padding-bottom: 50px;
+}
+.price-title span{
+	border-bottom: 1px solid #ED145B;
+	display: block;
+	margin: 20px auto;
+	width: 33%;
+}
+
+.price-one{
+	width: 100%;
+	float:left;
+}
+
+.card-top {
+	color: white;
+	 padding: 33px 0px;
+    text-align: center;
+    background: #5A5A5A;
+	
+}
+
+.card-body{
+	text-align: center;
+	padding: 50px 0px;
+	
+}
+
+.card-body ul{
+	padding: 0px 10px;
+	display: block;
+	margin: 0 auto;
+	list-style-type: none;
+
+}
+.card-body ul li{
+	padding: 6px 0px;
+
+}
+
+.btn-ctrl{
+	    position: absolute;
+    top: 25%;
+    left: 22%;
+    width: 57%;
+    height: 53px;
+    background: #F4F4F4;
+    color: black;
+    border: none;
+    border-radius: 25px;
+    margin: 0px 0px 20px 0px;
+}
+.btn-ctrl-two{
+	margin: 20px 0px 0px 0px;
+}
+
+
+/*service*/
+
+.feature{
+	width: 100%;
+	padding:50px;
+	float: left;
+
+}
+.first-feature{
+
+	padding: 50px 0px;
+}
+.left-icon{
+	float: right;
+	padding: 4px 0px;
+
+}
+.left-icon-img{
+	padding: 5px 0px;
+	float: right;
+}
+.right-content{
+padding: 0px 22px;
+}
+.right-content h6{
+	padding-bottom: 10px;
+	color: #ED145B;
+	font-weight: bold;
+	
+}
+
+.right-content p{
+	text-align: justify;
+}
+
+
+
+/* JOIN US*/
+
+
+.join-us{
+	background: #ED145B;
+	width: 100%;
+	float: left;
+	padding: 50px 0px;
+
+}
+
+.joinus-title{
+
+}
+.joinus-title h2{
+	font-weight: normal;
+font-size: 42px;
+color: white;
+}
+.joinus-title h2 span{
+	font-weight: bold;
+}
+
+.join-us-button{
+	padding-top: 10px;
+
+}
+.join-us-button button{
+
+	color: #ED145B;
+	background: #ffffff;
+}
+.cstm-btn:hover{
+	background: #ffffff40;
+	color: white;
+}
+
+
+
+
+/*  gallery area*/
+
+
+.first-gallery{
+	margin-bottom: 25px;
+
+
+}
+
+
+.nopadding{
+
+
+}
+
+
+
+
+
+
+.card-body-text{
+	padding: 20px 20px;
+	text-align: left;
+}
+.card-body-text h4{
+	font-weight: normal;
+}
+
+.gallery-title{
+	text-align: center;
+
+}
+
+.gallery-title h2{
+	padding: 40px 0px 0px 0px;
+	text-align: center;
+
+}
+.gallery-title p{
+	padding:0px 40px 50px 40px; 
+	text-align: center;
+
+}
+.gallery-title span{
+	border-bottom: 1px solid #ED145B;
+    margin: 20px auto;
+    display: block;
+    width: 20%;
+    margin-bottom: 20px;
+
+}
+
+.first-gallery:hover .img-hover-content{
+
+opacity: .8;
+
+
+}
+.hover-img{
+	position: relative;
+}
+
+.img-hover-content{
+	text-align: center;
+	position: absolute;
+    background: #ED145B;
+    width: 100%;
+    height: 62%;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    transition: 0.5s ease;
+}
+
+.img-hover-content i{
+	 
+
+
+}
+
+.fafas{
+    position: absolute;
+    top: 37%;
+    left: 44%;
+    font-size: 55px;
+    color: white;
+    font-weight: normal;
+	}
+
+.free{
+	padding: 60px 0px;
+background: url(../img/hero.png) no-repeat center top;
+background-size: cover;
+width: 100%;
+float: left;
+}
+.free-content{
+	color: white;
+
+	text-align: center;
+
+}
+.free-content h2{
+	
+}
+.free-content p{
+	
+}
+.free-content span{
+	border-bottom: 2px solid #ED145B;
+	display: block;
+	margin: 20px auto;
+	width: 10%;
+	
+}
+
+.cstm-btn-five{
+	color: white;
+	background: #ED145B;
+    border: none;
+    padding: 10px 40px;
+    border-radius: 25px
+}
+
+.cstm-btn-five:hover{
+	background: #ffffff40;
+    border: none;
+    padding: 10px 40px;
+    border-radius: 25px
+}
+
+
+
+.footer{
+	width: 100%;
+	float: left;
+	padding: 50px 0px;
+}
+
+.footer-content{
+	padding: 46px 37px;
+}
+
+.copyright{
+	color: white;
+	padding: 25px 0px;
+	width: 100%;
+	float: left;
+background: #2B2B2B;
+}
+
+
+.copy-left{
+text-align: center;
+float: left;
+}
+
+.copy-left h6{
+	padding: 10px 0px;
+
+}
+
+
+.copy-right{
+text-align: center;
+float: right;
+}
+.copy-right span{
+	font-size: 30px;
+	color: #D42A44;
+
+}
+.copy-right h6{
+
+}
+
+
+
+@media(min-width: 320px )and (max-width: 500px){
+.banner-bottom{
+
+	padding: 20px 0px;
+
+width: 100%;
+
+}
+.laptop{
+
+    width: 100%;
+    float: left;
+}
+.banner-bottom-title{
+ width: 100%;
+ text-align: center;
+ float: left;
+}
+
+
+}
+@media(min-width: 501px )and (max-width: 768px){
+	.banner-bottom{
+	padding: 20px 0px;
+
+width: 100%;
+float: left;
+}
+.laptop{
+    
+}
+}
+@media(min-width: 769px )and (max-width: 1200px){
+	.banner-bottom{
+	padding: 20px 0px;
+
+width: 100%;
+float: left;
+}
+.laptop{
+    
+}
+}
+@media(min-width: 1200px )and (max-width: ){
+	
+}
